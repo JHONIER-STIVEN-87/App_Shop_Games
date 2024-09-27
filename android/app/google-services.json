@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951446477589",
+    "project_id": "shop-games-user-registros",
+    "storage_bucket": "shop-games-user-registros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951446477589:android:79db524cd9f9a54c57e71c",
+        "android_client_info": {
+          "package_name": "com.example.shop_games_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZV5WqqWD4s2iEfrFcZF_gjOw_XNYDK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
